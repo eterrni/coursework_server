@@ -1,0 +1,20 @@
+package by.bsuir.kp.controller.command;
+
+public enum ParameterName {
+    LOGIN,
+    REGISTRATION,
+    INIT_DATA,
+    INIT_USERS,
+    FIND_PRODUCT,
+    DELETE_PRODUCT,
+    APPOINT_AN_ADMINISTRATOR,
+    APPOINT_AN_USER,
+    DELETE_USER,
+    INIT_CHOICE_PRODUCER,
+    INIT_CHOICE_PROVIDER,
+    ADD_NEW_PRODUCT,
+    ADD_NEW_PRODUCER,
+    ADD_NEW_PROVIDER,
+
+
+}
